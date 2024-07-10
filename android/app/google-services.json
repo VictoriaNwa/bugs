@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "220788454311",
+    "project_id": "taskfbman",
+    "storage_bucket": "taskfbman.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220788454311:android:88253457340ebce2917c82",
+        "android_client_info": {
+          "package_name": "com.example.taskfb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVSQOlmX-HD8LfLurogdoVuZJmoshk6-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
